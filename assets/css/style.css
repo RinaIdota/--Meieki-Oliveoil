@@ -307,14 +307,14 @@ button {
   line-height: 1.06667;
   margin: 0;
   padding-bottom: 15px;
-  color: #2A4073;
+  color: #233B6C;
 }
 
 .section-title--border::after {
   position: absolute;
   bottom: 0;
   left: calc(50% - 95px);
-  display: block;
+  display:#fff;
   content: '';
   background-color: #fff;
   height: 2.6px;
