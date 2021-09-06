@@ -333,7 +333,7 @@ button {
 * Button
 *************************/
 .btn {
-  display:#fff;
+  display:block;
   text-decoration: none;
   cursor: pointer;
   background-color: #233B6C;
