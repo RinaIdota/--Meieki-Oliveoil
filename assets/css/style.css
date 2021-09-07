@@ -264,7 +264,7 @@ button {
 }
 
 .sub-title__bg {
-  background-color: #c1272d;
+  background-color: #ffe227;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -462,7 +462,7 @@ button {
   position: relative;
   display: block;
   text-align: center;
-  color: #c1272d;
+  color: #fff;
   font-size: 30px;
   padding-bottom: 10px;
   margin-bottom: 35px;
