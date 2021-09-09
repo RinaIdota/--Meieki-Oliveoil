@@ -175,7 +175,7 @@ button {
   content: '';
   width: calc(100% - 60px);
   height: 7px;
-  background-color: #fcbf1e;
+  background-color: #250e62;
   position: absolute;
   top: -10px;
   left: 30px;
