@@ -28,19 +28,6 @@ body {
   margin: 0;
 }
 
-section-title {
-  overflow-x: hidden;
-  font-family: "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
-  font-size: 18px;
-  line-height: 1.77778;
-  font-weight: bold;
-  text-decoration: none;
-  border: none;
-  list-style: none;
-  color: #fff;
-  margin: 0;
-}
-
 img {
   width: 100%;
 }
@@ -134,6 +121,7 @@ button {
   padding-left: 20px;
   padding-right: 20px;
   margin: 0 auto;
+  color: #fff;
 }
 
 @media screen and (max-width: 1100px) {
@@ -306,6 +294,7 @@ button {
 
 .section-title--keycolor {
   background-color: #666da6;
+  color: #fff;
 }
 
 .section-title--story {
@@ -393,6 +382,7 @@ button {
       -ms-flex-align: center;
           align-items: center;
   height: 100%;
+  color: #fff;
 }
 
 .header__logo {
@@ -444,6 +434,7 @@ button {
 
 .stage-column__container + .stage-column__container {
   border-top: 2px solid #fff;
+  color: #fff;
 }
 
 .answer {
