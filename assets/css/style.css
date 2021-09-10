@@ -159,6 +159,7 @@ button {
   padding: 20px 30px;
   position: relative;
   cursor: pointer;
+  color: #fff;
 }
 
 .card__content {
@@ -276,15 +277,18 @@ button {
   padding: 9px 20px;
   background-color: #666da6;
   margin: 0 -20px 20px -20px;
+  color: #fff;
 }
 
 .section-title__stage {
   display: inline-block;
   margin-right: 2rem;
+  color: #fff;
 }
 
 .section-title--keycolorlight {
   background-color: #666da6;
+  color: #fff;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -299,6 +303,7 @@ button {
 .section-title--story {
   width: 330px;
   margin: 0 auto 20px;
+  color: #fff;
 }
 
 .section-title--border {
@@ -320,6 +325,7 @@ button {
   background-color: #fff;
   height: 2.6px;
   width: 190px;
+  color: #fff;
 }
 
 /******************
